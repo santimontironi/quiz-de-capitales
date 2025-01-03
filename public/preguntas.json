@@ -1,0 +1,42 @@
+[
+    {
+        "pais": "Argentina",
+        "capital": "Buenos Aires",
+        "opciones": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"]
+    },
+    {
+        "pais": "Brasil",
+        "capital": "Brasilia",
+        "opciones": ["Brasilia", "Río de Janeiro", "São Paulo", "Salvador"]
+    },
+    {
+        "pais": "Chile",
+        "capital": "Santiago",
+        "opciones": ["Santiago", "Valparaíso", "Concepción", "La Serena"]
+    },
+    {
+        "pais": "Colombia",
+        "capital": "Bogotá",
+        "opciones": ["Bogotá", "Medellín", "Cali", "Cartagena"]
+    },
+    {
+        "pais": "México",
+        "capital": "Ciudad de México",
+        "opciones": ["Ciudad de México", "Guadalajara", "Monterrey", "Puebla"]
+    },
+    {
+        "pais": "Perú",
+        "capital": "Lima",
+        "opciones": ["Lima", "Cusco", "Arequipa", "Trujillo"]
+    },
+    {
+        "pais": "Uruguay",
+        "capital": "Montevideo",
+        "opciones": ["Montevideo", "Punta del Este", "Salto", "Colonia del Sacramento"]
+    },
+    {
+        "pais": "Venezuela",
+        "capital": "Caracas",
+        "opciones": ["Caracas", "Maracaibo", "Valencia", "Barquisimeto"]
+    }
+]

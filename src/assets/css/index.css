@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    max-width: 100%;
+    background: linear-gradient(360deg,#396ee0,#346eda);
+}
