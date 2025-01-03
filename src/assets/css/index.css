@@ -7,4 +7,8 @@ body{
     height: 100vh;
     max-width: 100%;
     background: linear-gradient(360deg,#396ee0,#346eda);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
 }
