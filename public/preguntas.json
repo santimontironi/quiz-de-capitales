@@ -2,41 +2,101 @@
     {
         "pais": "Argentina",
         "capital": "Buenos Aires",
-        "opciones": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"]
+        "opciones": ["Córdoba", "Buenos Aires", "Rosario", "Mendoza"]
     },
     {
         "pais": "Brasil",
         "capital": "Brasilia",
-        "opciones": ["Brasilia", "Río de Janeiro", "São Paulo", "Salvador"]
+        "opciones": ["São Paulo", "Rio de Janeiro", "Brasilia", "Salvador"]
     },
     {
         "pais": "Chile",
         "capital": "Santiago",
-        "opciones": ["Santiago", "Valparaíso", "Concepción", "La Serena"]
+        "opciones": ["Valparaíso", "Santiago", "Concepción", "La Serena"]
     },
     {
         "pais": "Colombia",
         "capital": "Bogotá",
-        "opciones": ["Bogotá", "Medellín", "Cali", "Cartagena"]
-    },
-    {
-        "pais": "México",
-        "capital": "Ciudad de México",
-        "opciones": ["Ciudad de México", "Guadalajara", "Monterrey", "Puebla"]
+        "opciones": ["Medellín", "Cali", "Bogotá", "Cartagena"]
     },
     {
         "pais": "Perú",
         "capital": "Lima",
-        "opciones": ["Lima", "Cusco", "Arequipa", "Trujillo"]
+        "opciones": ["Cusco", "Arequipa", "Lima", "Trujillo"]
     },
     {
-        "pais": "Uruguay",
-        "capital": "Montevideo",
-        "opciones": ["Montevideo", "Punta del Este", "Salto", "Colonia del Sacramento"]
+        "pais": "México",
+        "capital": "Ciudad de México",
+        "opciones": ["Guadalajara", "Monterrey", "Ciudad de México", "Puebla"]
     },
     {
-        "pais": "Venezuela",
-        "capital": "Caracas",
-        "opciones": ["Caracas", "Maracaibo", "Valencia", "Barquisimeto"]
+        "pais": "España",
+        "capital": "Madrid",
+        "opciones": ["Barcelona", "Sevilla", "Madrid", "Valencia"]
+    },
+    {
+        "pais": "Francia",
+        "capital": "París",
+        "opciones": ["Lyon", "Marsella", "París", "Niza"]
+    },
+    {
+        "pais": "Italia",
+        "capital": "Roma",
+        "opciones": ["Milán", "Nápoles", "Roma", "Turín"]
+    },
+    {
+        "pais": "Alemania",
+        "capital": "Berlín",
+        "opciones": ["Hamburgo", "Múnich", "Berlín", "Fráncfort"]
+    },
+    {
+        "pais": "China",
+        "capital": "Pekín",
+        "opciones": ["Shanghái", "Pekín", "Cantón", "Shenzhen"]
+    },
+    {
+        "pais": "Japón",
+        "capital": "Tokio",
+        "opciones": ["Osaka", "Kioto", "Tokio", "Yokohama"]
+    },
+    {
+        "pais": "India",
+        "capital": "Nueva Delhi",
+        "opciones": ["Bombay", "Calcuta", "Nueva Delhi", "Madras"]
+    },
+    {
+        "pais": "Australia",
+        "capital": "Camberra",
+        "opciones": ["Sídney", "Melbourne", "Brisbane", "Camberra"]
+    },
+    {
+        "pais": "Canadá",
+        "capital": "Ottawa",
+        "opciones": ["Toronto", "Montreal", "Vancouver", "Ottawa"]
+    },
+    {
+        "pais": "Estados Unidos",
+        "capital": "Washington D.C.",
+        "opciones": ["Nueva York", "Los Ángeles", "Chicago", "Washington D.C."]
+    },
+    {
+        "pais": "Rusia",
+        "capital": "Moscú",
+        "opciones": ["San Petersburgo", "Moscú", "Novosibirsk", "Ekaterimburgo"]
+    },
+    {
+        "pais": "Sudáfrica",
+        "capital": "Pretoria",
+        "opciones": ["Johannesburgo", "Ciudad del Cabo", "Durban", "Pretoria"]
+    },
+    {
+        "pais": "Egipto",
+        "capital": "El Cairo",
+        "opciones": ["Alejandría", "El Cairo", "Luxor", "Asuán"]
+    },
+    {
+        "pais": "Nigeria",
+        "capital": "Abuya",
+        "opciones": ["Lagos", "Kano", "Ibadán", "Abuya"]
     }
 ]

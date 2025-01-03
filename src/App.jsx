@@ -21,11 +21,11 @@ export const App = () => {
   }
 
   const manejarRespuesta = (respuesta) => {
-    if (respuesta === preguntas[preguntaActual].respuesta) {
-      setPuntaje(puntaje + 1)
+    if (respuesta === preguntas[preguntaActual].capital) {
       setPreguntaActual(preguntaActual + 1)
+      setPuntaje(puntaje + 1)
     }
-    if (preguntaActual == preguntas.length - 1) {
+    if (preguntaActual === preguntas.length - 1) {
       setFinDelJuego(true)
     }
     else {
