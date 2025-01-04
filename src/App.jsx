@@ -22,14 +22,16 @@ export const App = () => {
 
   const manejarRespuesta = (respuesta) => {
     if (respuesta === preguntas[preguntaActual].capital) {
-      setPuntaje(puntaje + 1)
-      setPreguntaActual(preguntaActual + 1)
+      setPuntaje((prevPuntaje) => prevPuntaje + 1)
     }
-    if (preguntaActual === preguntas.length - 1) {
+
+    const siguientePregunta = preguntaActual + 1
+
+    if (siguientePregunta === preguntas.length - 1) {
       setFinDelJuego(true)
     }
     else {
-      setPreguntaActual(preguntaActual + 1)
+      setPreguntaActual(siguientePregunta)
     }
   }
 
