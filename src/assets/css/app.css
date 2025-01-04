@@ -101,22 +101,22 @@
 
 @media(max-width:800px){
     .contenedor{
-        width: 300px;
-        height: 470px;
+        width: 340px;
+        height: 500px;
         margin: auto;
     }
     .puntaje{
-        left: 10px;
-        top: 10px;
+        left: 15px;
+        top: 15px;
         padding: 10px;
     }
     .titulo{
-        font-size: 40px;
+        font-size: 45px;
         text-decoration: none;
     }
     .pregunta{
-        width: 270px;
-        height: 70px;
+        width: 300px;
+        height: 100px;
         padding: 7px;
     }
     .pregunta p{
@@ -126,7 +126,7 @@
     }
     .opciones button{
         height: 50px;
-        width: 240px;
-        font-size: 17px;
+        width: 270px;
+        font-size: 19px;
     }
 }
