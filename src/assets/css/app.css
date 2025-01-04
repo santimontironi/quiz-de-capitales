@@ -1,5 +1,5 @@
 .contenedor{
-    height: 600px;
+    height: 500px;
     width: 600px;
     background: linear-gradient(#fa8072,#b85c52);
     display: flex;
@@ -55,7 +55,7 @@
 
 .opciones button{
     width: 500px;
-    height: 60px;
+    height: 50px;
     background-color: #fff;
     border: none;
     border-radius: 30px;
