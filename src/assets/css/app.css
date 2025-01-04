@@ -101,7 +101,7 @@
 
 @media(min-width:320px) and (max-width:480px){
     .contenedor{
-        width: 300px;
+        width: 320px;
         height: 470px;
         margin: auto;
     }
