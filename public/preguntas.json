@@ -98,5 +98,60 @@
         "pais": "Nigeria",
         "capital": "Abuya",
         "opciones": ["Lagos", "Kano", "Ibadán", "Abuya"]
+    },
+    {
+        "pais": "Marruecos",
+        "capital": "Rabat",
+        "opciones": ["Casablanca", "Fez", "Marrakech", "Rabat"]
+    },
+    {
+        "pais": "Argelia",
+        "capital": "Argel",
+        "opciones": ["Orán", "Constantina", "Annaba", "Argel"]
+    },
+    {
+        "pais": "Túnez",
+        "capital": "Túnez",
+        "opciones": ["Sfax", "Sousse", "Kairuán", "Túnez"]
+    },
+    {
+        "pais": "Libia",
+        "capital": "Trípoli",
+        "opciones": ["Bengasi", "Misrata", "Trípoli", "Zawiya"]
+    },
+    {
+        "pais": "Etiopía",
+        "capital": "Adís Abeba",
+        "opciones": ["Dire Dawa", "Gondar", "Adís Abeba", "Mek'ele"]
+    },
+    {
+        "pais": "Kenia",
+        "capital": "Nairobi",
+        "opciones": ["Mombasa", "Kisumu", "Nairobi", "Nakuru"]
+    },
+    {
+        "pais": "Sudán",
+        "capital": "Jartum",
+        "opciones": ["Omdurmán", "Jartum", "Nyala", "Port Sudan"]
+    },
+    {
+        "pais": "Uganda",
+        "capital": "Kampala",
+        "opciones": ["Gulu", "Kampala", "Lira", "Mbarara"]
+    },
+    {
+        "pais": "Camerún",
+        "capital": "Yaundé",
+        "opciones": ["Duala", "Garoua", "Bafoussam", "Yaundé"]
+    },
+    {
+        "pais": "Ghana",
+        "capital": "Acra",
+        "opciones": ["Kumasi", "Tamale", "Takoradi", "Acra"]
+    },
+    {
+        "pais": "Costa de Marfil",
+        "capital": "Yamusukro",
+        "opciones": ["Abiyán", "Bouaké", "Daloa", "Yamusukro"]
     }
 ]
