@@ -22,8 +22,8 @@ export const App = () => {
 
   const manejarRespuesta = (respuesta) => {
     if (respuesta === preguntas[preguntaActual].capital) {
-      setPreguntaActual(preguntaActual + 1)
       setPuntaje(puntaje + 1)
+      setPreguntaActual(preguntaActual + 1)
     }
     if (preguntaActual === preguntas.length - 1) {
       setFinDelJuego(true)
@@ -34,6 +34,7 @@ export const App = () => {
   }
 
   const reiniciar = () => {
+    mezclarPreguntas(preguntas)
     setPreguntaActual(0)
     setPuntaje(0)
     setFinDelJuego(false)

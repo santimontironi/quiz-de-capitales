@@ -12,7 +12,7 @@
     {
         "pais": "Chile",
         "capital": "Santiago",
-        "opciones": ["Valparaíso", "Santiago", "Concepción", "La Serena"]
+        "opciones": ["Santiago","Valparaíso", "Concepción", "La Serena"]
     },
     {
         "pais": "Colombia",
@@ -27,12 +27,12 @@
     {
         "pais": "México",
         "capital": "Ciudad de México",
-        "opciones": ["Guadalajara", "Monterrey", "Ciudad de México", "Puebla"]
+        "opciones": ["Guadalajara", "Ciudad de México", "Monterrey", "Puebla"]
     },
     {
         "pais": "España",
         "capital": "Madrid",
-        "opciones": ["Barcelona", "Sevilla", "Madrid", "Valencia"]
+        "opciones": ["Madrid", "Sevilla", "Barcelona", "Valencia"]
     },
     {
         "pais": "Francia",
@@ -57,7 +57,7 @@
     {
         "pais": "Japón",
         "capital": "Tokio",
-        "opciones": ["Osaka", "Kioto", "Tokio", "Yokohama"]
+        "opciones": ["Tokio", "Kioto", "Osaka", "Yokohama"]
     },
     {
         "pais": "India",
@@ -92,7 +92,7 @@
     {
         "pais": "Egipto",
         "capital": "El Cairo",
-        "opciones": ["Alejandría", "El Cairo", "Luxor", "Asuán"]
+        "opciones": ["El Cairo", "Aion", "Luxor", "Asuán"]
     },
     {
         "pais": "Nigeria",
